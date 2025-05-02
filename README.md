@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shashanktiwari1281/Leetcode/tree/master/0002-add-two-numbers) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shashanktiwari1281/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shashanktiwari1281/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/shashanktiwari1281/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
