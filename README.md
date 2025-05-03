@@ -31,5 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashanktiwari1281/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashanktiwari1281/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shashanktiwari1281/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashanktiwari1281/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shashanktiwari1281/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
